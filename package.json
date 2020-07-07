@@ -1,7 +1,6 @@
 {
   "name": "step_js_food",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +17,6 @@
   "homepage": "https://github.com/ThisMarLi/Step_JS_Food#readme",
   "devDependencies": {
     "json-server": "^0.16.1"
-  }
+  },
+  "description": ""
 }
