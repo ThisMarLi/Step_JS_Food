@@ -17,7 +17,7 @@
   "homepage": "https://github.com/ThisMarLi/Step_JS_Food#readme",
   "devDependencies": {
     "json-server": "^0.16.1",
-    "webpack": "^4.44.0",
+    "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
