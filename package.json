@@ -11,16 +11,25 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": [
+    ">1%"
+  ],
   "bugs": {
     "url": "https://github.com/ThisMarLi/Step_JS_Food/issues"
   },
   "homepage": "https://github.com/ThisMarLi/Step_JS_Food#readme",
   "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "core-js": "^3.6.5",
     "json-server": "^0.16.1",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.10.4",
     "accepts": "^1.3.7",
     "ansi-align": "^3.0.0",
     "asn1": "^0.2.4",
@@ -47,6 +56,7 @@
     "ecc-jsbn": "^0.1.2",
     "emojis-list": "^3.0.0",
     "errno": "^0.1.7",
+    "es6-promise": "^4.2.8",
     "escape-string-regexp": "^1.0.5",
     "expand-brackets": "^2.1.4",
     "expand-tilde": "^2.0.2",
@@ -131,6 +141,7 @@
     "nanomatch": "^1.2.13",
     "negotiator": "^0.6.2",
     "nice-try": "^1.0.5",
+    "nodelist-foreach-polyfill": "^1.2.0",
     "normalize-url": "^4.5.0",
     "oauth-sign": "^0.9.0",
     "object-assign": "^4.1.1",
@@ -158,8 +169,8 @@
     "proxy-addr": "^2.0.6",
     "prr": "^1.0.1",
     "psl": "^1.8.0",
-    "pupa": "^2.0.1",
     "punycode": "^2.1.1",
+    "pupa": "^2.0.1",
     "qs": "^6.7.0",
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.0",
@@ -195,8 +206,8 @@
     "snapdragon": "^0.8.2",
     "snapdragon-node": "^2.1.1",
     "snapdragon-util": "^3.0.1",
-    "source-map-resolve": "^0.5.3",
     "source-map": "^0.5.7",
+    "source-map-resolve": "^0.5.3",
     "source-map-url": "^0.4.0",
     "split-string": "^3.1.0",
     "sshpk": "^1.16.1",
