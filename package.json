@@ -48,7 +48,7 @@
     "content-disposition": "^0.5.3",
     "copy-descriptor": "^0.1.1",
     "debug": "^2.6.9",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "decompress-response": "^3.3.0",
     "define-property": "^2.0.2",
     "detect-file": "^1.0.0",
