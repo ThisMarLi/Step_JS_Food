@@ -117,7 +117,7 @@
     "json-schema": "^0.2.3",
     "json-schema-traverse": "^0.4.1",
     "json-stringify-safe": "^5.0.1",
-    "json5": "^1.0.1",
+    "json5": "^1.0.2",
     "jsprim": "^1.4.1",
     "keyv": "^3.1.0",
     "kind-of": "^6.0.3",
